@@ -1,0 +1,35 @@
+h2 {
+    font-size: 20px;
+}
+
+.loginMain{
+    height: 100%;
+    background: url('../image/bg.svg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.login{
+    width:350px;
+    height:330px;
+    background: rgba($color: #000, $alpha: .4);
+    border-radius: 20px;
+    margin: auto;
+    padding: 25px;
+    color: white;
+    position: absolute;
+    left: 0 ;
+    right: 0;
+    top:25%;
+}
+
+.login-form {
+    max-width: 300px;
+}
+
+.login-form-forgot {
+    float: right;
+}
+
+.login-form-button {
+    width: 100%;
+}
