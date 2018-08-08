@@ -1,2 +1,2 @@
 # react-antd-ts-demo
-about react antd typescript
+这是一篇整合react+typescript+antd的入门级项目
